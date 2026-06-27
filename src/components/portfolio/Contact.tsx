@@ -10,9 +10,12 @@ const Contact = () => {
           Currently looking for full-time opportunities in software development.
           Drop a note - I'll get back quickly.
         </p>
-        <div className="flex items-center justify-center gap-4">
+        <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <a href="mailto:kaushalnandania086@gmail.com" className="btn-azure">
             Say hello
+          </a>
+          <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="btn-outline">
+            View Resume
           </a>
         </div>
       </div>
