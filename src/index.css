@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Apple semantic mapping (HSL) */
+    --background: 240 6% 97%;          /* Fog #f5f5f7 */
+    --foreground: 240 3% 12%;          /* Ink #1d1d1f */
+
+    --card: 0 0% 100%;                 /* Snow */
+    --card-foreground: 240 3% 12%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 3% 12%;
+
+    --primary: 211 100% 45%;           /* Azure #0071e3 */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 240 7% 92%;           /* Silver mist */
+    --secondary-foreground: 240 3% 12%;
+
+    --muted: 240 6% 97%;
+    --muted-foreground: 0 0% 44%;      /* Graphite */
+
+    --accent: 211 100% 40%;            /* Cobalt */
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 19 100% 36%;        /* Caution */
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 240 7% 92%;              /* Silver mist */
+    --input: 240 7% 92%;
+    --ring: 211 100% 45%;
+
+    --radius: 1.75rem;                 /* 28px Apple card radius */
+
+    --sidebar-background: 0 0% 100%;
+    --sidebar-foreground: 240 3% 12%;
+    --sidebar-primary: 211 100% 45%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 6% 97%;
+    --sidebar-accent-foreground: 240 3% 12%;
+    --sidebar-border: 240 7% 92%;
+    --sidebar-ring: 211 100% 45%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'SF Pro Text', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Inter', system-ui, sans-serif;
+    font-feature-settings: "ss01", "cv01";
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Inter', system-ui, sans-serif;
+  }
+
+  /* Apple typography scale */
+  .text-eyebrow {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.19;
+    letter-spacing: 0.011em;
+  }
+  .text-display {
+    font-size: clamp(48px, 9vw, 96px);
+    font-weight: 700;
+    line-height: 1.04;
+    letter-spacing: -0.022em;
+  }
+  .text-display-lg {
+    font-size: clamp(40px, 7vw, 80px);
+    font-weight: 700;
+    line-height: 1.05;
+    letter-spacing: -0.019em;
+  }
+  .text-headline {
+    font-size: clamp(36px, 5vw, 56px);
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: -0.016em;
+  }
+  .text-section {
+    font-size: clamp(28px, 3.5vw, 40px);
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: -0.015em;
+  }
+  .text-sub {
+    font-size: clamp(20px, 2vw, 24px);
+    font-weight: 300;
+    line-height: 1.4;
+    letter-spacing: -0.005em;
+  }
+  .text-body-lg {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.47;
+    letter-spacing: -0.006em;
+  }
+  .text-caption {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.33;
+    letter-spacing: -0.003em;
+  }
+
+  /* Apple buttons */
+  .btn-azure {
+    @apply inline-flex items-center justify-center bg-primary text-primary-foreground rounded-full px-5 py-2 text-[17px] font-normal transition-opacity hover:opacity-90;
+  }
+  .btn-dark {
+    @apply inline-flex items-center justify-center bg-foreground text-background rounded-full px-5 py-2 text-[17px] font-normal transition-opacity hover:opacity-90;
+  }
+  .btn-ghost {
+    @apply inline-flex items-center text-[17px] text-[hsl(211,100%,40%)] hover:underline;
+  }
+
+  /* Apple surfaces */
+  .surface-card {
+    background: hsl(var(--card));
+    border-radius: 28px;
+  }
+  .surface-recessed {
+    background: hsl(var(--background));
+    border-radius: 28px;
+  }
+  .surface-dark {
+    background: hsl(var(--foreground));
+    color: hsl(var(--background));
+    border-radius: 28px;
+  }
+
+  .frosted {
+    background: rgba(245, 245, 247, 0.72);
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+  }
+
+  /* Product gradients */
+  .gradient-citrus {
+    background: linear-gradient(184deg, rgb(29,29,31) 0%, rgb(223,231,79) 33%, rgb(94,156,42) 66%, rgb(10,134,26) 95%);
+  }
+  .gradient-indigo {
+    background: linear-gradient(184deg, rgb(29,29,31) 20%, rgb(168,211,251) 43%, rgb(0,18,249) 76%, rgb(37,53,224) 95%);
+  }
+  .gradient-blush {
+    background: linear-gradient(184deg, rgb(29,29,31) 20%, rgb(243,196,246) 43%, rgb(245,0,180) 76%, rgb(204,41,188) 95%);
+  }
+}
