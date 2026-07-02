@@ -9,7 +9,7 @@ const Experience = () => {
       logo: null,
       points: [
         "Engineered a novel Multi-Head Spikeformer architecture in TensorFlow 2.16+ and Keras 3, integrating Spiking Neural Networks (SNN) and Self-Attention to automate clinical assessment scoring using RGB-D skeleton tracking data.",
-        "Achieved new State-of-the-Art (SOTA) accuracy on the KiMoRe dataset, reducing the evaluation RMSE to 0.390 and decisively outperforming the current academic benchmark set by Deb et al. (RMSE 0.556).",
+        <>Achieved new State-of-the-Art (SOTA) accuracy on the KiMoRe dataset, reducing the evaluation RMSE to 0.390 and decisively outperforming the current academic benchmark set by <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9709340" target="_blank" rel="noopener noreferrer" className="text-[hsl(211,100%,40%)] hover:underline">Deb et al.</a> (RMSE 0.556).</>,
         "Solved extreme clinical class imbalances by designing a custom Dynamic Frequency-Weighted Hybrid Loss (RMSE + MAE) in Python, forcing the model to mathematically prioritize and accurately score severe minority patients.",
         "Validated the architecture's robust generalization for real-world physical rehabilitation scenarios through rigorous 5-Fold Stratified Cross-Validation, outclassing legacy ST-GCN models in handling variable-speed temporal sequences.",
       ],
