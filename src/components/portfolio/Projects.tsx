@@ -21,6 +21,15 @@ const Projects = () => {
       image: campusLifeOsImage,
     },
     {
+      title: "TransitOps — Fleet Management",
+      category: "Full-Stack System",
+      tech: ["Next.js 15", "TypeScript", "Prisma 6", "Supabase", "Upstash Redis", "Tailwind CSS"],
+      description: "A next-generation transport operations platform built for the Odoo Hackathon 2026. Features automatic status transitions, role-based access control (RBAC), secure Redis-backed OTP authentication, and mandatory driver onboarding workflows with a premium glassmorphic UI.",
+      github: "https://github.com/kaushalnandaniya/TransitOps",
+      liveUrl: null,
+      image: null,
+    },
+    {
       title: "Physical Rehabilitation using SNN",
       category: "Machine Learning",
       tech: ["Python", "Spiking Neural Networks", "PyTorch", "Computer Vision"],
