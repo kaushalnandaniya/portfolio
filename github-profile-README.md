@@ -15,39 +15,8 @@
 
 <table align="center">
 <tr>
-<td>
-<pre style="font-family: monospace, monospace; font-size: 8px; line-height: 8px;">
-%#@@@@@@@@@@@@S%%S#@@#@@#SSS#@@@@@@######@@@@@@@@@@@@@@@@@@@
-%?*?S#@@@@@@@#S%SSS##S@@@@#SS@@@@@@@@@@###@@@@@@@@@@@@@@@@@@
-+?%?*++?S#@@@#%????**%#@@@@S%S@@@@######S#####SS@@@@@@@@@@@@
-:;:;*%?+;+*?SS?***+++?SS####S%S#SSSSSSSS#SSSS##########@@@@@
-:;:..,;*??+;;++++++++?%%#@@@@%%####S########@@@@@@###@@@@@@@
-:;:.....:;+*;:;;;;+++?%%#@@@@@SS@@@@#@@#@@@@@@@@@@##@@@@@@S?
-:;:....,::,:::::;;;;;?%%**%S#@@@@S%%%#@@@###############?*?S
-:;:....,::,,,,:::::::*%?;:;;+*?%#%?**%%%%????????????%%??%%S
-:;:....,::,,,,,,:::::*??,.,::::;;++*******?????????????S####
-:;:....,::,,,,,,,,:::*?*,.,:,,,,,:;;;;;++++++*********?#####
-:;:....,::,,,,,,,,,,,+**,.,:;***;:::::;;;;;;+++++++****##SSS
-:;:.,..,::,,,,,,,,,,,+**,.:%@@@@@#?:::::::;;;;;;;;+++++SSSSS
-++;,,..,::,,,,,,,,,,,+*+,.%@@######+,::::::::::;;;;;;++SS%%S
-##SS%,.,::,;+:,,,,,,,+*+,.?S#SSSSSSS:,,,:::;;;;;::;++++S####
-##SSS+;;;;,;?*,,,,,,,+**,.;S#%%%%%?%+,;;;+%@@@@#**+++;+%####
-S@##S%?**+:;?*:,+%%?,;%S;,;*?%*?*?*??*??%%S#######*++;*?####
-%@##%%?S%?;;;;,:#S#*,+%*+****?????%%%%SSSS%%S####S++%+*?%SSS
-**+;+*+*??+;;;;?#S#*++;;?%*+****+*%S###S?#%%SS+++*++++++;;;;
-;;::;::;+*?%SSS@####*+*?%?*++**++*+SS#S%%%S%%#?**++++;;;++**
-;+*??%SS##SSS%S@@#@@####+:++++*+*+*SSS%SS%SSS#S?%%%SS%?***++
-SSSSSSSSS#@@S%%@##@SS%?*+;;++++??%SSSS*%S@SS#SS?%S@#SSSSS#%%
-%???SS#@@@@@###@@##SS*++;;;+++?SSS%%S?;;+S%%%SSSS#@#SSS%S%;+
-?**?SS###@@@#@@@@@#SS%??%?;+***?*?%%S%***SSS#@@@##@@@##SS*;;
-????SSSSSSSSS#%?SSS%%??*?**%S::*;;SSS?++*?%#%%###SSSS%%SS*;;
-????S####SSSS#S%%%??****+*SSS:;?*;SSS+++++***;%%?%%%%%SSS?;;
-????#@#########SS%??%?**+?SSS****+SSS++****??%SSSSSS#####?;;
-????#@@@######SSSS%%S%?**+?%%%%SSSSSS**S??%%%%#S%%SSSS#SS?;;
-%???#@##@@###SSS%%%#%???*+++*+*S#SS##?*?S%?*??%%%SSS#####?;;
-%?%S#SSSS#SSS%%%%?????***++++*%##SSSS?**%???????%%##SSSSS%*+
-SS#SSSSSSSS%%????????*****++*?S###SSS*********?????%%%%%%%SS
-</pre>
+<td width="300">
+  <img src="src/assets/nandu_office.png" alt="Nandu in Office" width="300" style="border-radius: 10px;" />
 </td>
 <td>
 
@@ -87,11 +56,11 @@ SS#SSSSSSSS%%????????*****++*?S###SSS*********?????%%%%%%%SS
 ### 📊 competitive.metrics()
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalnandaniya&theme=hacker&hide_border=true&background=0D1117" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalnandaniya&theme=tokyonight&hide_border=true&background=0D1117" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushalnandaniya&theme=hacker" width="70%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushalnandaniya&theme=tokyonight" width="70%" />
 </p>
 
 ---
