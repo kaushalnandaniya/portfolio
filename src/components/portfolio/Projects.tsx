@@ -6,6 +6,7 @@ import hackerrankImage from "@/assets/hackerrank_orchestrate.png";
 import rehabImage from "@/assets/rehab_snn.png";
 import quantImage from "@/assets/quant_engine.png";
 import hedgeFundImage from "@/assets/hedge_fund.png";
+import transitOpsImage from "@/assets/transit_ops.png";
 
 const Projects = () => {
   const [lightboxImage, setLightboxImage] = useState<{ src: string; alt: string } | null>(null);
@@ -25,9 +26,9 @@ const Projects = () => {
       category: "Full-Stack System",
       tech: ["Next.js 15", "TypeScript", "Prisma 6", "Supabase", "Upstash Redis", "Tailwind CSS"],
       description: "A next-generation transport operations platform built for the Odoo Hackathon 2026. Features automatic status transitions, role-based access control (RBAC), secure Redis-backed OTP authentication, and mandatory driver onboarding workflows with a premium glassmorphic UI.",
-      github: "https://github.com/kaushalnandaniya/TransitOps",
-      liveUrl: null,
-      image: null,
+      github: "https://github.com/kaushalnandaniya/Odoo_Hackathon_2026",
+      liveUrl: "https://transitops-neon.vercel.app",
+      image: transitOpsImage,
     },
     {
       title: "Physical Rehabilitation using SNN",
