@@ -16,7 +16,7 @@
 <table align="center">
 <tr>
 <td width="300">
-  <img src="src/assets/nandu_office.png" alt="Nandu in Office" width="300" style="border-radius: 10px;" />
+  <img src="src/assets/nandu_ascii_color.png" alt="Nandu ASCII Matrix" width="300" style="border-radius: 10px;" />
 </td>
 <td>
 
