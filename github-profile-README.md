@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=35&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Kaushal+Nandaniya;Software+Engineer;ML+%26+NLP+Developer;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Kaushal+Nandaniya;Software+Engineer;ML+%26+NLP+Developer;Competitive+Programmer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://kaushalnandaniya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://kaushalnandaniya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/kaushal-nandaniya-24a26a2ba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/kaushal_nandaniya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://codeforces.com/profile/Kaushal_Nandaniya"><img src="https://img.shields.io/badge/Codeforces-1789C9?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
@@ -13,69 +13,89 @@
 
 ---
 
-### 🧑‍💻 About Me
+<table align="center">
+<tr>
+<td>
+<pre style="font-family: monospace, monospace; font-size: 8px; line-height: 8px;">
+%#@@@@@@@@@@@@S%%S#@@#@@#SSS#@@@@@@######@@@@@@@@@@@@@@@@@@@
+%?*?S#@@@@@@@#S%SSS##S@@@@#SS@@@@@@@@@@###@@@@@@@@@@@@@@@@@@
++?%?*++?S#@@@#%????**%#@@@@S%S@@@@######S#####SS@@@@@@@@@@@@
+:;:;*%?+;+*?SS?***+++?SS####S%S#SSSSSSSS#SSSS##########@@@@@
+:;:..,;*??+;;++++++++?%%#@@@@%%####S########@@@@@@###@@@@@@@
+:;:.....:;+*;:;;;;+++?%%#@@@@@SS@@@@#@@#@@@@@@@@@@##@@@@@@S?
+:;:....,::,:::::;;;;;?%%**%S#@@@@S%%%#@@@###############?*?S
+:;:....,::,,,,:::::::*%?;:;;+*?%#%?**%%%%????????????%%??%%S
+:;:....,::,,,,,,:::::*??,.,::::;;++*******?????????????S####
+:;:....,::,,,,,,,,:::*?*,.,:,,,,,:;;;;;++++++*********?#####
+:;:....,::,,,,,,,,,,,+**,.,:;***;:::::;;;;;;+++++++****##SSS
+:;:.,..,::,,,,,,,,,,,+**,.:%@@@@@#?:::::::;;;;;;;;+++++SSSSS
+++;,,..,::,,,,,,,,,,,+*+,.%@@######+,::::::::::;;;;;;++SS%%S
+##SS%,.,::,;+:,,,,,,,+*+,.?S#SSSSSSS:,,,:::;;;;;::;++++S####
+##SSS+;;;;,;?*,,,,,,,+**,.;S#%%%%%?%+,;;;+%@@@@#**+++;+%####
+S@##S%?**+:;?*:,+%%?,;%S;,;*?%*?*?*??*??%%S#######*++;*?####
+%@##%%?S%?;;;;,:#S#*,+%*+****?????%%%%SSSS%%S####S++%+*?%SSS
+**+;+*+*??+;;;;?#S#*++;;?%*+****+*%S###S?#%%SS+++*++++++;;;;
+;;::;::;+*?%SSS@####*+*?%?*++**++*+SS#S%%%S%%#?**++++;;;++**
+;+*??%SS##SSS%S@@#@@####+:++++*+*+*SSS%SS%SSS#S?%%%SS%?***++
+SSSSSSSSS#@@S%%@##@SS%?*+;;++++??%SSSS*%S@SS#SS?%S@#SSSSS#%%
+%???SS#@@@@@###@@##SS*++;;;+++?SSS%%S?;;+S%%%SSSS#@#SSS%S%;+
+?**?SS###@@@#@@@@@#SS%??%?;+***?*?%%S%***SSS#@@@##@@@##SS*;;
+????SSSSSSSSS#%?SSS%%??*?**%S::*;;SSS?++*?%#%%###SSSS%%SS*;;
+????S####SSSS#S%%%??****+*SSS:;?*;SSS+++++***;%%?%%%%%SSS?;;
+????#@#########SS%??%?**+?SSS****+SSS++****??%SSSSSS#####?;;
+????#@@@######SSSS%%S%?**+?%%%%SSSSSS**S??%%%%#S%%SSSS#SS?;;
+%???#@##@@###SSS%%%#%???*+++*+*S#SS##?*?S%?*??%%%SSS#####?;;
+%?%S#SSSS#SSS%%%%?????***++++*%##SSSS?**%???????%%##SSSSS%*+
+SS#SSSSSSSS%%????????*****++*?S###SSS*********?????%%%%%%%SS
+</pre>
+</td>
+<td>
 
-- 🎓 **B.Tech in Mathematics & Computing** at **DA-IICT, Gandhinagar**
-- 🧠 Passionate about **Machine Learning**, **NLP**, and **Software Engineering**
-- 🏆 **Expert @Kaggle** (Global Rank: 285) & **Pupil @Codeforces**
-- 🔬 Research on **"Instant Insanity"** puzzle and mathematical variations
-- 🌐 Check out my portfolio → [kaushalnandaniya.vercel.app](https://kaushalnandaniya.vercel.app)
+### 🧑‍💻 system.info()
+
+- 🎓 **B.Tech in Mathematics & Computing** @ **DA-IICT**
+- 🧠 Machine Learning, NLP, & Software Engineering
+- 🏆 **Expert @Kaggle** (Global Rank: 262) & **Pupil @Codeforces**
+- 🔬 Research on **Physical Rehabilitation Assessment** via Spikeformers & SNNs
+- 🌐 [kaushalnandaniya.vercel.app](https://kaushalnandaniya.vercel.app)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,tensorflow,sklearn,postgres,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,tensorflow,sklearn,postgres,mysql,git,github,vscode,nextjs,prisma,redis,tailwind&theme=dark" />
 </p>
 
 ---
 
-### 📊 Competitive Programming
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Platform</b></td>
-    <td align="center"><b>Rating</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></td>
-    <td align="center"><b>1,415</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Codeforces-1789C9?style=flat-square&logo=codeforces&logoColor=white" /></td>
-    <td align="center"><b>1,227</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></td>
-    <td align="center"><b>Expert (Datasets)</b></td>
-  </tr>
-</table>
-
----
-
-### 🚀 Featured Projects
+### 🚀 deployment.status()
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 💰 [**Wealth Management Engine**](https://github.com/kaushalnandaniya/AssetManagement) | Real-time portfolio management with dynamic holdings tracking | PostgreSQL, Python |
-| 📈 [**Derivatives Pricing & Risk Engine**](https://github.com/kaushalnandaniya) | Quantitative pricing models (Black-Scholes, Monte Carlo) & Greeks | Python, NumPy |
-| 📊 [**Real-Time Trading & Risk Monitoring**](https://github.com/kaushalnandaniya/RiskManagement) | Low-latency trading signal system with arbitrage detection | Java, MySQL |
+| 💰 [**Derivatives Pricing & Risk Engine**](https://github.com/kaushalnandaniya/Quantitative-Derivatives-Pricing-Risk-Engine) | Quantitative pricing models (Black-Scholes, Monte Carlo) & Greeks | Python, NumPy, Next.js |
+| 🚌 [**TransitOps — Fleet Management**](https://github.com/kaushalnandaniya/Odoo_Hackathon_2026) | Role-based transport platform built for Odoo Hackathon 2026 | Next.js 15, Prisma, Supabase |
+| 🤖 [**Hackerrank Orchestrator**](https://github.com/kaushalnandaniya/HackerRank_Orchestrate) | Automated AI pipeline for insurance claim verification | Gemini 2.5 Flash, Python |
+| 📅 [**Campus Life OS**](https://github.com/kaushalnandaniya/Campus-Life-OS) | Intelligent dashboard for scheduling and syllabus extraction | Next.js, Postgres, AI |
 
 ---
 
-### 📈 GitHub Activity
+### 📊 competitive.metrics()
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalnandaniya&theme=tokyonight&hide_border=true&background=0D1117" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalnandaniya&theme=hacker&hide_border=true&background=0D1117" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushalnandaniya&theme=tokyonight" width="70%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushalnandaniya&theme=hacker" width="70%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaushalnandaniya&color=a855f7&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=kaushalnandaniya&color=00ff00&style=flat-square&label=Connections" />
 </p>
