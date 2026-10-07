@@ -46,6 +46,8 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| ⚡ [**Epsilon — HFT NanoEngine**](https://github.com/kaushalnandaniya/Epsilon) | Ultra-low latency NSE/BSE execution engine achieving 4.19ns tick-to-trade latency | C++20, SIMD |
+| 🦀 [**Titan — Lakehouse Engine**](https://github.com/kaushalnandaniya/Titan) | Vectorized, asynchronous SQL query engine with zero-copy Apache Arrow processing | Rust, Map-Reduce |
 | 💰 [**Derivatives Pricing & Risk Engine**](https://github.com/kaushalnandaniya/Quantitative-Derivatives-Pricing-Risk-Engine) | Quantitative pricing models (Black-Scholes, Monte Carlo) & Greeks | Python, NumPy, Next.js |
 | 🚌 [**TransitOps — Fleet Management**](https://github.com/kaushalnandaniya/Odoo_Hackathon_2026) | Role-based transport platform built for Odoo Hackathon 2026 | Next.js 15, Prisma, Supabase |
 | 🤖 [**Hackerrank Orchestrator**](https://github.com/kaushalnandaniya/HackerRank_Orchestrate) | Automated AI pipeline for insurance claim verification | Gemini 2.5 Flash, Python |

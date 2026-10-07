@@ -13,6 +13,24 @@ const Projects = () => {
 
   const projects = [
     {
+      title: "Epsilon — NanoEngine",
+      category: "High-Frequency Trading",
+      tech: ["C++20", "SIMD", "Hardware Bitmasks", "Zero-Allocation"],
+      description: "An ultra-low latency C++20 HFT execution engine engineered for the Indian Stock Market (NSE/BSE). Achieves a record-breaking 4.19ns tick-to-trade latency via mechanical sympathy, SIMD instructions, and cache-coherent architecture.",
+      github: "https://github.com/kaushalnandaniya/Epsilon",
+      liveUrl: null,
+      image: null,
+    },
+    {
+      title: "Titan — Lakehouse Engine",
+      category: "Distributed Systems",
+      tech: ["Rust", "Apache Arrow", "SIMD", "Map-Reduce"],
+      description: "A high-performance, asynchronous, fully vectorized lakehouse query engine built from scratch in Rust. Features zero-copy Parquet scanning, morsel-driven work stealing, late materialization, and lock-free memory allocation to achieve extreme Map-Reduce parallel efficiency.",
+      github: "https://github.com/kaushalnandaniya/Titan",
+      liveUrl: null,
+      image: null,
+    },
+    {
       title: "Campus Life OS",
       category: "AI Agent",
       tech: ["Next.js", "Gemini API", "PostgreSQL", "Tailwind CSS"],
